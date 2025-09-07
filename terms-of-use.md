@@ -160,6 +160,55 @@ Some parts of our _Services_ may require you to create an _Account_ or log in. Y
 
 You are responsible for all activities carried out through your _Account_, whether authorized by you or not. We will assume that anyone using your _Account_ has your permission to do so.
 
+{.numbered-header}
+## Updates & Access To Our _Services_
+
+{.numbered-header}
+### Rights to modify
+We may withdraw or change our _Services_ (in whole or in part) at any time, for any reason, at our sole discretion.
+
+{.numbered-header}
+### System availability
+There may be times when our _Services_ (or parts of them) are unavailable due to technical issues or maintenance, whether scheduled or unscheduled.
+
+{.numbered-header}
+### Updates
+You understand that:
+* we may provide updates to our _Services_ at our discretion, and we may require you to accept them in order to continue using the _Services_;
+* you may also need to update third-party software from time to time in order to access our _Services_;
+* it is your responsibility to install updates for our _Services_ and any required third-party software. We are not liable for any _Loss_ you may suffer as a result of failing to update;
+* we are not required to provide support for our _Services_ (including advice, training, error correction, modifications, new releases, enhancements, hosting, or other services).
+
+{.numbered-header}
+## Third Party Services
+
+{.numbered-header}
+### Use of third-party services
+Third-party services may be involved when you:
+* purchase, install, or update our _Services_ (for example, the Apple iOS App Store, Google Play Store, or Steam);
+* use our _Services_ (for example, gameplay recording and sharing, or social media features).
+
+These third-party services are subject to their own terms and conditions. Please review them carefully, as they form a separate agreement between you and the third-party provider. We are not responsible for the actions of these third parties.
+
+{.numbered-header}
+### Links to third-party content
+Our _Services_ may also include links (including advertisements) to third-party websites, content, or services. These links are provided for your convenience and may not always be current or maintained.
+
+You understand that:
+* links to third-party content or services do not mean we endorse, approve, or recommend them;
+* your use of third-party content or services may be subject to separate terms and conditions; and
+* when you provide data to third parties, it is governed by their privacy policy (if any). Our [Privacy Policy](https://docs.dynart.net/legal/privacy-policy.html) does not apply to that data.
+
+{.numbered-header .module-advertising}
+## Advertising
+
+### Advertisements in our Services
+You understand that:
+* our _Services_ may include advertisements from us and/or third parties;
+* we may, at our discretion, add advertising to any of our _Services_ that do not currently include it, unless we have explicitly stated that a particular _Service_ will remain ad-free;
+* we are not responsible for the content of any third-party advertisements, or for any websites or materials linked from them — you access those at your own risk; and
+* we may provide information to third-party advertisers in line with our [Privacy Policy](https://docs.dynart.net/legal/privacy-policy.html).
+
 
 {#definitions}
 ## Definitions

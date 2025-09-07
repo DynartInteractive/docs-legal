@@ -136,6 +136,30 @@ We may reject, remove, modify, or refuse to post any _User Content_ for any reas
 ### Risks of user content
 You use _User Content_ posted by others at your own risk. We are not responsible for the accuracy or reliability of _User Content_ created by other users, and we are not liable for any _Loss_ or _Claim_ arising from your use of or reliance on such content.
 
+{.numbered-header}
+## Intellectual Property
+
+{.numbered-header}
+### Our intellectual property
+You agree that all Intellectual Property relating to our _Services_ is owned by or licensed to us. Our _Services_ are licensed to you — they are not sold. No title or ownership in our _Services_ is transferred or assigned to you under these _Terms_.
+
+{.numbered-header .module-user-interaction}
+### Your user content
+Our _Services_ may allow you to create _User Content_. You keep ownership of any Intellectual Property rights that arise from your _User Content_.
+
+However, by creating or submitting _User Content_, you grant us a worldwide, perpetual, irrevocable, royalty-free, fully transferable, and sub-licensable licence to use, modify, or exploit that content in any way and for any purpose, without compensation to you.
+
+To the fullest extent permitted by law, you also agree not to enforce (and waive) any moral rights you may have in relation to your _User Content_, now or in the future.
+
+{.numbered-header .module-user-interaction}
+## Accounts and Login
+
+{.numbered-header .module-user-interaction}
+### Account responsibility
+Some parts of our _Services_ may require you to create an _Account_ or log in. You must take reasonable steps to protect your login details and keep them secret.
+
+You are responsible for all activities carried out through your _Account_, whether authorized by you or not. We will assume that anyone using your _Account_ has your permission to do so.
+
 
 {#definitions}
 ## Definitions

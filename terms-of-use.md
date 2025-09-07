@@ -209,6 +209,80 @@ You understand that:
 * we are not responsible for the content of any third-party advertisements, or for any websites or materials linked from them — you access those at your own risk; and
 * we may provide information to third-party advertisers in line with our [Privacy Policy](https://docs.dynart.net/legal/privacy-policy.html).
 
+{.numbered-header}
+## Termination Of Account Or Services
+
+{.numbered-header .module-user-interaction}
+### Our rights over your Account
+We may limit, suspend, terminate, modify, or delete your _Account_ or your access to our _Services_ (including _User Content_) if you fail, or we suspect you are failing, to comply with these _Terms_, our [Privacy Policy](https://docs.dynart.net/legal/privacy-policy.html), or our [House Rules](https://docs.dynart.net/legal/house-rules.html), or if you engage in (or we suspect) illegal or improper use of our _Services_. This may be done with or without notice to you.
+
+{.numbered-header .module-user-interaction}
+### Terminated Account
+If we terminate your _Account_ (other than for inactivity), you must not access any other _Accounts_ or create new ones.
+
+{.numbered-header .module-user-interaction}
+### Our deletion rights
+We may delete your _Account_ if it has been inactive for 180 days or more. If this happens, you will lose access to any _Virtual Items_ linked to that _Account_, and no refund will be given.
+
+{.numbered-header .module-user-interaction}
+### Account deletion
+If you delete your _Account_, or if we delete it in line with these _Terms_, you may lose access to all data linked to your _Account_ (including, for example, your level, scores, or any _Virtual Items_).
+
+{.numbered-header}
+### Termination of licence
+Upon termination, you must delete or destroy any remaining copies of our _Services_ and related documentation, or otherwise return or dispose of them as we instruct.
+
+{.numbered-header}
+### Compensation
+You agree to compensate us, as required by law, for all losses, harm, claims, and expenses that result from your breach of these _Terms_.
+
+Nothing in this section affects rights you may have under consumer protection laws.
+
+{.numbered-header}
+## Disclaimer & Release
+
+### Limitation of liability
+To the fullest extent permitted by law, we are not liable for any _Claims_ or _Losses_ arising directly or indirectly from:
+
+* a failure to provide our _Services_, or any part of them;
+* corruption or loss of data, errors, or interruptions that occur while using our _Services_;
+* any suspension or discontinuation of our _Services_, or any part of them; or
+* use of our _Services_ by other users, including where that use breaches these _Terms_.
+
+{.numbered-header}
+## Warranty
+
+{.numbered-header}
+### Services provided "as is"
+Our _Services_ are provided on an “as is” and “as available” basis. You understand that our _Services_ cannot be guaranteed to be error free, and the existence of errors will not be considered a breach of these _Terms_.
+
+{.numbered-header}
+## Warranty
+
+{.numbered-header}
+### Services provided “as is”
+Our _Services_ are provided on an “as is” and “as available” basis. You understand that our _Services_ cannot be guaranteed to be error free, and the existence of errors will not be considered a breach of these _Terms_.
+
+{.numbered-header}
+### Limitation of liability
+Except where these _Terms_ expressly state otherwise, and to the fullest extent permitted by applicable law:
+
+* we are not liable to you for any _Loss_, including indirect or consequential damages (such as loss of profits), or for any _Claim_ arising out of a breach of these _Terms_ or from the supply of defective _Services_;
+* for any term, condition, guarantee, or warranty implied by law that cannot lawfully be excluded (including statutory consumer rights under EU and Hungarian law), our liability is limited, at our option, to:
+    * for goods (where our _Services_ are considered goods under applicable law): repairing, replacing, or supplying equivalent goods, or paying the cost of doing so; or
+    * for services: supplying the _Services_ again or paying the cost of having them supplied again.
+
+Nothing in these _Terms_ excludes or limits any liability that cannot be excluded under applicable law, including liability for death, personal injury, or fraud.
+
+{.numbered-header}
+### Independent judgment
+You agree that you have exercised your own independent judgment in acquiring our _Services_. You have not relied on any representation not expressly stated in these _Terms_, nor on descriptions, illustrations, or specifications in documents such as catalogues or publicity material we produce.
+
+{.numbered-header}
+### Apple App Store purchases
+If you purchased our _Services_ through the iOS App Store and they fail to meet an applicable warranty, you may notify Apple, and Apple will refund the purchase price. To the maximum extent permitted by law, Apple has no other warranty obligations regarding our _Services_. Any other claims, losses, damages, costs, or expenses will be handled by us in accordance with these _Terms_.
+
+
 
 {#definitions}
 ## Definitions

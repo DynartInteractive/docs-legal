@@ -253,13 +253,6 @@ To the fullest extent permitted by law, we are not liable for any _Claims_ or _L
 ## Warranty
 
 {.numbered-header}
-### Services provided "as is"
-Our _Services_ are provided on an “as is” and “as available” basis. You understand that our _Services_ cannot be guaranteed to be error free, and the existence of errors will not be considered a breach of these _Terms_.
-
-{.numbered-header}
-## Warranty
-
-{.numbered-header}
 ### Services provided “as is”
 Our _Services_ are provided on an “as is” and “as available” basis. You understand that our _Services_ cannot be guaranteed to be error free, and the existence of errors will not be considered a breach of these _Terms_.
 
@@ -280,17 +273,68 @@ You agree that you have exercised your own independent judgment in acquiring our
 
 {.numbered-header}
 ### Apple App Store purchases
-If you purchased our _Services_ through the iOS App Store and they fail to meet an applicable warranty, you may notify Apple, and Apple will refund the purchase price. To the maximum extent permitted by law, Apple has no other warranty obligations regarding our _Services_. Any other claims, losses, damages, costs, or expenses will be handled by us in accordance with these _Terms_.
+If you purchased our _Services_ through the iOS App Store and they fail to meet an applicable warranty, you may notify Apple and, where required by EU consumer law, you may be entitled to a refund or other remedies. To the maximum extent permitted by law, Apple has no further warranty obligations regarding our _Services_. Any additional claims, losses, damages, costs, or expenses will be handled by us in accordance with these _Terms_ and your statutory rights under EU and Hungarian law.
 
+{.numbered-header}
+## General
 
+{.numbered-header}
+### Assignment
+We may transfer some or all of our rights or responsibilities under these _Terms_ to another party without asking for your consent, provided the transfer does not significantly disadvantage you. You may not transfer any of the rights we grant you under these _Terms_ unless we agree in writing.
+
+{.numbered-header}
+### Entire agreement
+These _Terms_, together with our [Privacy Policy](https://docs.dynart.net/legal/privacy-policy.html) and our [House Rules](https://docs.dynart.net/legal/house-rules.html), form the entire agreement between you and us concerning our _Services_. They replace all earlier agreements and understandings between you and us.
+
+{.numbered-header}
+### Severability
+If any part of these _Terms_ is found to be invalid or unenforceable, that part will be limited or removed to the minimum extent necessary so that the rest of the _Terms_ remain valid and enforceable.
+
+{.numbered-header}
+### Waivers
+If we do not exercise or enforce a right under these _Terms_, that does not mean we waive our right to do so in the future. Any waiver will only be effective if it is in writing and signed by us.
+
+{.numbered-header}
+### Governing law and dispute resolution
+These _Terms_ are governed exclusively by the laws of Hungary and the applicable laws of the European Union.
+
+If a dispute arises, you may also submit your complaint to an alternative dispute resolution (ADR) body or mediation service in Hungary or in the EU country where you live. We will consider participating in such procedures in good faith.
+
+If the dispute is not resolved through mediation or ADR, it must be brought before the competent courts of Hungary.
+
+In addition, the European Commission provides an online dispute resolution platform, which you can access at [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr).
 
 {#definitions}
 ## Definitions
 
+In these _Terms_, unless the context otherwise requires, the following words have the following meanings:
+
+* **Apple** — Apple Inc., 1 Infinite Loop, Cupertino, California.
+* **Claim** — any action, claim, proceeding, or demand whatsoever, whether existing now or arising in the future, and whether related to past, present, or future events or circumstances.
+* **House Rules** — the rules for user participation in our social media forums, available at [House Rules](https://docs.dynart.net/legal/house-rules.html).
+* **Intellectual Property** — all rights worldwide relating to patents, copyright (including moral rights), designs, registered and unregistered trademarks, trade secrets, know-how, confidential information, and all other intellectual property, including the right to register such rights, whether created before or after the date of this document, and for the full duration of those rights (including renewals).
+* **Loss** — all losses, costs, expenses, and damages (including legal costs and disbursements), sustained or incurred directly, indirectly, consequentially, or otherwise.
+* **Provider Credits** — currency-like credits held by you with a third-party provider (for example, Facebook Credits).
+* **Privacy Policy** — our privacy policy, as updated from time to time, available at [Privacy Policy](https://docs.dynart.net/legal/privacy-policy.html).
+* **Services** — the services offered by us, including our games, websites, and related services.
+* **Terms** — this Terms of Use document, as updated from time to time.
+* **Update** — an update supplied by us that replaces or supplements the original _Service_ and may include adding, removing, modifying, or otherwise altering features of our _Services_ at our sole discretion.
+
+{.module-user-interaction}
+* **Account** — a user account registered in connection with the use of our _Services_.
+* **User Content** — any content generated, created, or otherwise made available through the use of our _Services_. In the context of user interaction, this includes communications, images, sounds, and all other material, data, and information that you or others upload or transmit (including, without limitation, chat text).
+* **Virtual Items** — any virtual items, objects, or entitlements for use in our _Services_, including any form of virtual currency.
+
 {#company-details}
 ## Company details
-Dynart Kft.
-6080 Szabadszállás,
-Alsószőlők tanya 129.
 
-DUNS-36-665-7038
+If you have any questions about these _Terms_ or our _Services_ you may contact us at:
+
+Dynart Kft.  
+6080 Szabadszállás  
+Alsószőlők tanya 129.  
+Company Registration No.: 03-09-258769  
+VAT No.: HU25876978-2-03  
+DUNS: 36-665-7038  
+Email: [info@dynart.net](mailto:info@dynart.net)  
+

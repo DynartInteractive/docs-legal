@@ -5,11 +5,11 @@
 
 These Terms of Use (_Terms_) govern your use of the games and services provided by Dynart Kft. (see {ref}`company-details`, "us" or "we"). For the meaning of certain words and phrases, please see the {ref}`definitions`.
 
-By downloading, installing, playing, or otherwise accessing our _Services_, you agree to be bound by these _Terms_ and our [Privacy Policy](https://docs.dynart.net/legal/privacy-policy.html), which forms part of these _Terms_. Please read them carefully. If you do not understand or do not agree with any part, you should not use or purchase our _Services_.
+By downloading, installing, playing, or otherwise accessing our _Services_, you agree to be bound by these _Terms_, [Privacy Policy](https://docs.dynart.net/legal/privacy-policy.html) and our [House Rules](https://docs.dynart.net/legal/house-rules.html), which forms part of these _Terms_. Please read them carefully. If you do not understand or do not agree with any part, you should not use or purchase our _Services_.
 
 If a child uses our _Services_, their legal guardian must agree to these _Terms_ on the child’s behalf. You can always access the latest version of these _Terms_ at https://docs.dynart.net/legal/terms-of-use.html.
 
-We may update these _Terms_ and our [Privacy Policy](https://docs.dynart.net/legal/privacy-policy.html) from time to time by posting the revised versions at https://docs.dynart.net/legal. Your continued use of our _Services_ confirms your acceptance of the updated _Terms_ and [Privacy Policy](https://docs.dynart.net/legal/privacy-policy.html).
+We may update these _Terms_ [Privacy Policy](https://docs.dynart.net/legal/privacy-policy.html) and our [House Rules](https://docs.dynart.net/legal/house-rules.html) from time to time by posting the revised versions at https://docs.dynart.net/legal. Your continued use of our _Services_ confirms your acceptance of the updated _Terms_, [Privacy Policy](https://docs.dynart.net/legal/privacy-policy.html) and [House Rules](https://docs.dynart.net/legal/house-rules.html).
 
 {.numbered-header}
 ## Right To Use Our _Services_
@@ -76,7 +76,7 @@ You must not:
 * impersonate another person;
 * share another person’s personal data without consent;
 * use our _Services_ to harass, abuse, threaten, or harm others, or incite others to do so;
-* distribute content that breaches our House Rules;
+* distribute content that breaches our [House Rules](https://docs.dynart.net/legal/house-rules.html);
 * gather or aggregate information about us, our _Services_, or other users;
 * use our _Services_ in any way that breaks the law.
 
@@ -105,6 +105,36 @@ To use our _Services_, you must:
 * not appear on any restricted or prohibited party list of either of those governments;
 * comply with the laws that apply to you in the location where you access our _Services_. If applicable laws restrict or prohibit your use of our _Services_, you must follow those restrictions or stop using the _Services_.
 
+{.numbered-header .module-user-interaction}
+## User Interaction
+
+{.numbered-header .module-user-interaction}
+### Communication and posting
+Our _Services_ may allow you to communicate with other users or post materials that can be made publicly available.
+
+{.numbered-header .module-user-interaction}
+### Responsibility for content
+You are solely responsible for any _User Content_ that you create, post, or share on or through our _Services_.
+
+{.numbered-header .module-user-interaction}
+### Licence to use content
+By submitting _User Content_ (including your _Intellectual Property_), you grant us a royalty-free, worldwide, non-exclusive, sub-licensable licence to use that content.
+
+{.numbered-header .module-user-interaction}
+### Non-confidential content
+All _User Content_ is considered non-confidential and non-proprietary. If you want to keep something private or prevent others from using it, do not post it on our _Services_. We have no obligation to evaluate, use, or compensate you for any ideas or information you choose to submit.
+
+{.numbered-header .module-user-interaction}
+### House Rules
+You must comply with our [House Rules](https://docs.dynart.net/legal/house-rules.html) at all times when posting material and interacting through our _Services_.
+
+{.numbered-header .module-user-interaction}
+### Moderation
+We may reject, remove, modify, or refuse to post any _User Content_ for any reason (or no reason), including if we believe it violates these _Terms_, our [Privacy Policy](https://docs.dynart.net/legal/privacy-policy.html), or our [House Rules](https://docs.dynart.net/legal/house-rules.html). This may be done by our staff or by automated tools that monitor and/or record your interaction with our _Services_.
+
+{.numbered-header .module-user-interaction}
+### Risks of user content
+You use _User Content_ posted by others at your own risk. We are not responsible for the accuracy or reliability of _User Content_ created by other users, and we are not liable for any _Loss_ or _Claim_ arising from your use of or reliance on such content.
 
 
 {#definitions}

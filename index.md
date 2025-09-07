@@ -6,3 +6,4 @@
 
 privacy-policy
 terms-of-use
+house-rules

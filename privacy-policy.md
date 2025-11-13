@@ -6,7 +6,7 @@ By downloading or playing our games, you agree to this Privacy Policy, which als
 
 ---
 
-### For Kids
+## For Kids
 
 Be smart and safe online!
 Never give anyone your personal information without first asking your parent or guardian.
@@ -14,7 +14,7 @@ Do **not** share your photo, name, email, home address, phone number, school, or
 
 If you'd like to enter one of our competitions, ask your parent or guardian for permission first.
 
-### For Parents
+## For Parents
 
 We are committed to the safety and privacy of children who use our Services.
 We encourage parents and guardians to actively monitor their child’s online activities.
@@ -22,7 +22,7 @@ See the **Children’s Privacy** section below for more details.
 
 ---
 
-# Table of Contents
+## Table of Contents
 
 1. [What Information Do We Collect?](#what-information-do-we-collect)
 
@@ -48,9 +48,9 @@ See the **Children’s Privacy** section below for more details.
 
 ---
 
-# What Information Do We Collect?
+## What Information Do We Collect?
 
-## 1.1 Information You Give Us
+### 1.1 Information You Give Us
 
 We receive and store information that you provide, for example when you:
 
@@ -67,7 +67,7 @@ We receive and store information that you provide, for example when you:
 
 ---
 
-## 1.2 Information Collected Automatically
+### 1.2 Information Collected Automatically
 
 We automatically collect certain types of information when you interact with us, such as:
 
@@ -81,7 +81,7 @@ We automatically collect certain types of information when you interact with us,
 
 ---
 
-## 1.3 Information From Third Parties
+### 1.3 Information From Third Parties
 
 We may collect information about you from third parties when necessary to provide Services you request:
 
@@ -91,7 +91,7 @@ We may collect information about you from third parties when necessary to provid
 
 ---
 
-# How Do We Use Your Information?
+## How Do We Use Your Information?
 
 We use your personal data for the following purposes:
 
@@ -226,7 +226,7 @@ Data deletion requests may take up to 30 days.
 
 ---
 
-# Complaints
+## Complaints
 
 If you have concerns or complaints about privacy, contact us via:
 
@@ -241,7 +241,7 @@ We will respond within a reasonable time if return contact details are provided.
 
 ---
 
-# Updates to This Policy
+## Updates to This Policy
 
 We may update this Privacy Policy occasionally.
 Updates will take effect upon publication at **dynart.net**.
@@ -249,7 +249,7 @@ Please check regularly for updates.
 
 ---
 
-# Definitions
+## Definitions
 
 * **Advertising ID** — A unique device identifier used to improve ad relevance.
 * **Analytics** — The interpretation of anonymized data to find trends in usage.
@@ -262,7 +262,7 @@ Please check regularly for updates.
 
 ---
 
-# Community Participation Guidelines
+## Community Participation Guidelines
 
 We want our online spaces to remain respectful, safe, and enjoyable.
 We may remove comments that violate these rules.
